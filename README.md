@@ -6,6 +6,6 @@ This component allows you to test out different colors on your website or app bu
 The code was tested on - https://js.do/
 
 citation
-https://www.w3schools.com/css/css3_buttons.asp
+https://www.w3schools.com/css/css3_buttons.asp,
 https://css-tricks.com/snippets/javascript/
 
